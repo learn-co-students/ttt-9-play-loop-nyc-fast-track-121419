@@ -35,4 +35,4 @@ def turn(board)
   end
 end
 
-# Define your play method below
+def play method in lib/play.rb, you should first take a look at the CLI provided in bin/play. This code will require your lib/play.rb library, initialize a starting board, and welcome the user.
